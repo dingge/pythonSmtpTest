@@ -7,7 +7,7 @@ receivers = ['529077434@qq.com']
 
 mail_host="smtp.163.com"
 mail_user="fireburnbird@163.com"
-mail_pass="forevermypig53"
+mail_pass="xxxxxxx"
 
 message = MIMEText('Python mail sending test...','plain','utf-8')
 message['From'] = 'fireburnbird@163.com'
